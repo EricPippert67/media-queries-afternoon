@@ -1,0 +1,126 @@
+body{
+    height: 200vh;
+
+
+}
+.upper{
+    background-image: url("https://blackrockdigital.github.io/startbootstrap-agency/img/header-bg.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    
+}
+.container{
+    color:#fec503;
+
+}
+.button navbar-toggler{
+    color: yellow;
+}
+.body1{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    height: 100px;
+    align-items: center;
+    width: 100%;
+}
+.body1 h1{
+    display: flex;
+    font-size: 2em;
+    justify-content: flex-start;
+    font-family: 'Kaushan Script', cursive;
+    color: #fec503;
+    margin: 0;
+}
+.services{
+    display: flex;
+    font-size: 14px;
+    justify-content: space-around;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 30vw;
+    font-weight: 400;
+
+    
+}
+    
+
+.s1:hover{
+    color:yellow;
+}
+.s2:hover{
+    color:yellow;
+}
+.s3:hover{
+    color:yellow;
+}
+.s4:hover{
+    color:yellow;
+}
+.s5:hover{
+    color:yellow;
+}
+
+
+.main{
+    height: 100%;
+    padding-top: 200px;
+
+}
+
+.main1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 4%;
+
+
+}
+.main1 h1{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+
+}
+.main1 h2{
+    font-family: montserrat;
+    color: white;
+    font-size: 75px;
+    margin: 0;
+    height: 150px;
+}
+.main1 button{
+    font-size: 18px;
+    background-color: yellow;
+    width: 12%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20%;  
+}
+.main2 h1{
+    font-family: montserrat;
+    font-size: 40px;
+    color: #212529;
+    font-weight: 700;
+    line-height: 48px;
+}
+.main2 h2{
+    font-family: sans-serif;
+    color: #6c757d;
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+
+
+
